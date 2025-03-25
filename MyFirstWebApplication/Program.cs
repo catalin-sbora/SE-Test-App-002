@@ -8,7 +8,7 @@ namespace MyFirstWebApplication
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-
+sdfsdf sdfsdf sdfsdfs;df;sfdsdfsdfsdf;
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
